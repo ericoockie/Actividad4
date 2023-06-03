@@ -1,0 +1,6 @@
+Pan,2.00,0%
+Cafe,8.00,0%
+Huevos,2.00,0%
+Cuadernos,2.00,7%
+Pintura,10.00,7%
+Aceite,8.00,7%
